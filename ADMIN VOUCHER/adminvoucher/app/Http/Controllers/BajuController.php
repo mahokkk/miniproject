@@ -81,6 +81,6 @@ class BajuController extends Controller
      */
     public function destroy(Baju $baju)
     {
-        //bbb
+        //bbbrttrt
     }
 }
